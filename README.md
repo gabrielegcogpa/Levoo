@@ -109,4 +109,6 @@ document.querySelector('.btn').addEventListener('click', () => {
 levoo/
 ├── index.html
 ├── style.css
-└── script.js
+└📄 index.html  
+📄 style.css  
+📄 script.js── script.js
